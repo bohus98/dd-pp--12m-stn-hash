@@ -22,7 +22,7 @@ Ak je hodnota nepravda, použie na to funkciu get_n().
 generuje hodnoty p a q, čím sa zvyšuje zložitosť algoritmu.
 
 Efektívny je každý krok vykonávania algoritmu
-##LCG
+## LCG
 Algoritmus lineárneho kongruenciálneho generátora.
 Zdedí nadradenú triedu PRNG.
 
