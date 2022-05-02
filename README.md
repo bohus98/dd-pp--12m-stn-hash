@@ -37,8 +37,9 @@ ekvivalentného algoritmu a nakonfigurovaných atribútov
 v konštruktore triedy.
 ## MT
 Algoritmus Mersenne Twister.
+
 #main
-## main
+
 Pomocou náhodne vybraného seedu generujem pseudonáhodné čísla pococou funkcii z generators
 ### all_lengths
 List definujúci bitovú dĺžku čísel generovaných funkciou BBS.
