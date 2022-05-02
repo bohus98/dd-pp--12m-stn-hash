@@ -168,7 +168,7 @@ class LCG(PRNG):
 
 class MT(PRNG):
     """
-        Algoritmo Mersenne Twister.
+        Algoritmus Mersenne Twister.
 
     """
     def __init__(self, seed):
